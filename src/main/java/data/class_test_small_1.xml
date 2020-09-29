@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Windows User</Author>
+  <LastAuthor>ASUS</LastAuthor>
+  <Created>2020-03-14T17:57:50Z</Created>
+  <LastSaved>2020-04-24T07:15:23Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9192</WindowHeight>
+  <WindowWidth>23040</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Normal_">
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=Sheet1!R2C5:R34C5"
+    ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="15" ss:ExpandedRowCount="16" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="89.4"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">class</Data></Cell>
+    <Cell><Data ss:Type="String">subject</Data></Cell>
+    <Cell><Data ss:Type="String">slot</Data></Cell>
+    <Cell><Data ss:Type="String">room</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">c1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">sub1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">AL-106</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">c2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">sub2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">AL-107</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">c3</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">sub3</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M3</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">AL-110</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">c4</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">sub4</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">E1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">AL-127</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">c5</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">sub1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">E2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">AL-133</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">c6</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">sub2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">AL-122</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">c7</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">sub3</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">AL-124</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">c8</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">sub4</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M3</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">AL-109</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">c9</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">sub1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">E1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">AL-119</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">c10</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">sub2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">E2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">AL-121</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">c11</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">sub3</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">AL-142</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">c12</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">sub4</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">AL-143</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">c13</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">sub1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M3</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">AL-146</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">c14</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">sub2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">E1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">AL-128</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">c15</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">sub3</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">E2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">AL-130</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>11</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+     <RangeSelection>R12C3:R16C3</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
